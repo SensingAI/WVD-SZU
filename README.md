@@ -23,13 +23,13 @@ WVD-SZU
  |--train.txt
  |--trainval.txt
  |--images/   -- directory containing ".png" files from the color camera (realsense).
- |--labels    -- directory containing color image lable
+ |--labels    -- directory containing color image label.
  |--Middle_group 
       |--shenzhen_*_Img.png
-      |--gt_label/
+      |--gt_label/     --directory contianin color image label with 6 Middle label (SafeLevel-*).
  |--Traver
       |--shenzhen_*_Img.png
-      |--gt_label/
+      |--gt_label/     --directory contianin color image label with 2 Root label (Traversable or Non-traversable).
 ```
 ## Download Link on BaiDu Cloud
 Link:
