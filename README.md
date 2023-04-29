@@ -44,7 +44,7 @@ With the goal of providing data to enhance unstructure environment navigation, w
 
 **Images Statics:**
 
-<img src="https://github.com/SensingAI/WVD-SZU/raw/main/images/static2_00.jpg" width="875" >
+<img src="https://github.com/SensingAI/WVD-SZU/raw/main/images/static2_00.jpg" width="855" >
 
 **Note:**
 
