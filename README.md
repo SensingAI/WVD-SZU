@@ -16,12 +16,22 @@ Wenbin Zou<sup>1,2,3</sup>, Guoguang Hua, Guangxu Chen, Zaiyue He, Guangli Liu, 
 
 <img src="https://github.com/SensingAI/WVD-SZU/raw/main/images/Examples_00.jpg" width="925" >
 
+## Folder Structure
+
+## Download Link on BaiDu Cloud
+Link:
+
+PassWord:
+
+## Annotated Data
+
+## Benchmarks
+
+## Citation
 
 
-
-
-
-
+## License
+All datasets and code on this page are copyright by us and published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License.
 
 
 
