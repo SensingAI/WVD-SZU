@@ -4,7 +4,7 @@
 
 Wenbin Zou<sup>1,2,3</sup>, Guoguang Hua<sup>1,2,3</sup>, Guangxu Chen<sup>1,2,3</sup>, Zaiyue He<sup>1,2,3</sup>, Guangli Liu<sup>1,2,3</sup>, Pengfei Chen<sup>1,2,3</sup>, Yuyang Li<sup>1,2,3</sup>, Huakun Li<sup>1,2,3</sup>, Lei Zheng<sup>1,2,3</sup>, Shishun Tian<sup>1,3,*</sup> <br>
 
-  1. [Shenzhen University](https://www.szu.edu.cn/)  2. [Guangdong KLIIP](http://iip.szu.edu.cn/) 3. SenSingAI   <br>
+  1. [Shenzhen University](http://ceie.szu.edu.cn/)  2. [Guangdong KLIIP](http://iip.szu.edu.cn/) 3. SenSingAI   <br>
 
   [Website] [Paper] [[Github](https://github.com/SensingAI/WVD-SZU/)]
 
@@ -33,9 +33,9 @@ WVD-SZU
       |--gt_label/     --directory contianin color image label with 2 Root label (Traversable or Non-traversable).
 ```
 ## Download Link on BaiDu Cloud
-Link:
+Link:https://pan.baidu.com/s/1KsVTrJcD4vilYRi7jVo7Xg
 
-PassWord:
+PassWord:akig
 :blush:
 
 ## Annotated Data
