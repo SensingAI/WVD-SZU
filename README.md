@@ -17,7 +17,20 @@ Wenbin Zou<sup>1,2,3</sup>, Guoguang Hua, Guangxu Chen, Zaiyue He, Guangli Liu, 
 <img src="https://github.com/SensingAI/WVD-SZU/raw/main/images/Examples_00.jpg" width="925" >
 
 ## Folder Structure
-
+```
+WVD-SZU
+ |--test.txt
+ |--train.txt
+ |--trainval.txt
+ |--images/   -- directory containing ".png" files from the color camera (realsense).
+ |--labels    -- directory containing color image lable
+ |--Middle_group 
+      |--shenzhen_*_Img.png
+      |--gt_label/
+ |--Traver
+      |--shenzhen_*_Img.png
+      |--gt_label/
+```
 ## Download Link on BaiDu Cloud
 Link:
 
