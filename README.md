@@ -38,7 +38,7 @@ Link:https://pan.baidu.com/s/1KsVTrJcD4vilYRi7jVo7Xg
 PassWord:akig
 :blush:
 
-**Note:**This is a part of dataset.
+**Note:** This is a part of dataset.
 
 ## Annotated Data
 **Category:**
