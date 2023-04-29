@@ -3,7 +3,7 @@
 
 Wenbin Zou<sup>1,2,3</sup>, Guoguang Hua, Guangxu Chen, Zaiyue He, Guangli Liu, Pengfei Chen, Yuyang Li, Huakun Li, Lei Zheng, Shishun Tian <br>
 
-1. [Shenzhen University](https://www.szu.edu.cn/)  2. [替换文本](https://www.baidu.com/)   <br>
+1. [Shenzhen University](https://www.szu.edu.cn/)  2. [Guangdong KLIIP](http://iip.szu.edu.cn/)   <br>
 [Website][Paper][Github]
 
 
