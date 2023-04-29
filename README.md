@@ -3,3 +3,8 @@
 Wenbin Zou<sup>1,2,3</sup>, Guoguang Hua, Guangxu Chen, Zaiyue He, Guangli Liu, Pengfei Chen, Yuyang Li, Huakun Li, Lei Zheng, Shishun Tian <br>
 1. [ShenZhen University](https://www.szu.edu.cn/) <br>
 [Website][Paper][Github]
+ 
+##Updates
+* 29/04/2023 `v1.0 release`
+
+##Overview
