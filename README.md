@@ -1,5 +1,6 @@
 # WVD-SZU (ICME2023)：Need a dog seeing eye? A Walk Viewpoint Dataset for Freespace Detection in Unstructured Environments
-<img src="https://www.szu.edu.cn/images/logo_03.png" width="325" height="85"> <img src="http://iip.szu.edu.cn/uploads/admin/202010/5f866c5e7eb7e.jpg" width="415" height="85">
+<div align=center><img src="https://www.szu.edu.cn/images/logo_03.png" width="325" height="80">  <img src="https://github.com/SensingAI/WVD-SZU/raw/main/images/SensingAi.png" width="125" ></div> 
+<div align=center><img src="http://iip.szu.edu.cn/uploads/admin/202010/5f866c5e7eb7e.jpg" width="525" height="95"></div>
 
 Wenbin Zou<sup>1,2,3</sup>, Guoguang Hua, Guangxu Chen, Zaiyue He, Guangli Liu, Pengfei Chen, Yuyang Li, Huakun Li, Lei Zheng, Shishun Tian <br>
 
@@ -66,8 +67,12 @@ DeeplabV3+ | 84 | 70 | 67 | 27 | 75 | 80 | 86 | 42 | 43 | 0 | 0 | 4 | 0 | 78 | 0
 RFNet | 88 | 76 | 76 | 39 | 82 | 86 | 95 | 70 | 59 | 5 | 1 | 43 | 7 | 83 | 62 | 71 | 89 | 68 | 27 | 90
 PPLiteSeg | 92 | 84 | 82 | 39 | 85 | 82 | 83 | 74 | 45 | 1 | 1 | 58 | 0 | 79 | 46 | 44 | 53 | 61 | 23 | 85
 
+<img src="https://github.com/SensingAI/WVD-SZU/raw/main/images/Results_00.jpg" width="925" >
+
 ## Citation
 
+## Collaborator
+<img src="https://github.com/SensingAI/WVD-SZU/raw/main/images/SensingAi.png" width="125" >
 
 ## License
 All datasets and code on this page are copyright by us and published under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License.
