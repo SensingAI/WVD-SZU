@@ -52,6 +52,19 @@ With the goal of providing data to enhance unstructure environment navigation, w
 (2) If you can't access the file, please email every author with the title "WVD-SZU Aceess Request..."
 
 ## Benchmarks
+**The MIoU Score of Models at Three Levels**
+Methods | Root | Middle | Category
+--- | --- | --- | --- 
+DeeplabV3+ | 96.41 % | 70.56 % | 43.33 %
+RFNet | 97.61 % | 74.69 % | 60.98 %
+PPLiteSeg | 97.35 % | 78.64 % | 61.61 %
+
+**Per Categories on The Testing Split**
+Methods | Sidewalk | Ped.A | Blind | Cur.C | Lawn | Bik.L | Crosswalk | Cat.B | Manhole | Gra.W | Dir.W | Mul.W | Puddle | Asp.R | Spe.B | Cem.R | Parking | Curb | Pohthole | Stair
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- 
+DeeplabV3+ | 84 | 70 | 67 | 27 | 75 | 80 | 86 | 42 | 43 | 0 | 0 | 4 | 0 | 78 | 0 | 8 | 0 | 56 | 18 | 73
+RFNet | 88 | 76 | 76 | 39 | 82 | 86 | 95 | 70 | 59 | 5 | 1 | 43 | 7 | 83 | 62 | 71 | 89 | 68 | 27 | 90
+PPLiteSeg | 92 | 84 | 82 | 39 | 85 | 82 | 83 | 74 | 45 | 1 | 1 | 58 | 0 | 79 | 46 | 44 | 53 | 61 | 23 | 85
 
 ## Citation
 
