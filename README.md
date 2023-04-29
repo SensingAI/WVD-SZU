@@ -40,8 +40,16 @@ PassWord:
 ## Annotated Data
 **Category:**
 With the goal of providing data to enhance unstructure environment navigation, we defined the WVD dataset. WVD contains diverse categories that can easily be spotted from a walk viewpoint, e.g., pedestrian-area and bike-lane. Visually impaired people who are trailed tend to struggle with walking straight, so they tend to touch the Blind to follow over a straightFor mobile robots, the definitions of safe regions are different, e.g., the sidewalk is higher than the bike-lane, and the bike-lane is higher than the road in safety factors. Overall, 20 categories are present in the data.
+
 **Images Statics:**
 
+<img src="https://github.com/SensingAI/WVD-SZU/raw/main/images/static2_00.jpg" width="925" >
+
+**Note:**
+
+(1) Two inset to better visualize some of categories.
+
+(2) If you can't access the file, please email every author with the title "WVD-SZU Aceess Request..."
 
 ## Benchmarks
 
