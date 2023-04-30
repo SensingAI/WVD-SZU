@@ -6,7 +6,7 @@ Wenbin Zou, Guoguang Hua, Guangxu Chen, Zaiyue He, Guangli Liu, Pengfei Chen, Yu
 
   1. [Shenzhen University](http://ceie.szu.edu.cn/)  2. [Guangdong KLIIP](http://iip.szu.edu.cn/)   <br>
 
-  [Website] [Paper] [[Github](https://github.com/SensingAI/WVD-SZU/)]
+  [[Website](https: "Coming Soon")] [Paper] [[Github](https://github.com/SensingAI/WVD-SZU/)]
 
 
 ## Updates
