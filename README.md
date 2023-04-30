@@ -10,7 +10,7 @@ Wenbin Zou, Guoguang Hua, Guangxu Chen, Zaiyue He, Guangli Liu, Pengfei Chen, Yu
 
 
 ## Updates
-* 29/04/2023 `v1.0 release`
+* 27/04/2023 `v1.0 release`
 
 ## Overview
 **Freespace Detection** (FD) is crucial for robust and safe autonomous navigation. However, existing datasets usually concentrate on structure road environments. The FD in unstructured environments, e.g., walk assistance for the visually-impaired, has been rarely investigated. In this paper, We propose a novel dataset called the **Walk Viewpoint Dataset (WVD)**. Different from the previous datasets, we focus on the walk viewpoint, where FD can provide the potential for improving the walking of visually impaired people. The target regions of WVD are annotated with **20 categories** by fine-grained labels, which consist of **3,737** images and depth images. Moreover, we propose a new annotation hierarchy, which allows different degrees of complexity and creates opportunities for new training methods. Finally, our study provides the statistical analysis of label characteristics and baseline analysis, which demonstrates its distinction compared to previous datasets.
