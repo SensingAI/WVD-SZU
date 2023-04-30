@@ -2,9 +2,9 @@
 <div align=center><img src="https://www.szu.edu.cn/images/logo_03.png" width="325" height="80">  <img src="https://github.com/SensingAI/WVD-SZU/raw/main/images/SensingAi.png" width="125" ></div> 
 <div align=center><img src="http://iip.szu.edu.cn/uploads/admin/202010/5f866c5e7eb7e.jpg" width="525" height="95"></div>
 
-Wenbin Zou<sup>1,2,3</sup>, Guoguang Hua<sup>1,2,3</sup>, Guangxu Chen<sup>1,2,3</sup>, Zaiyue He<sup>1,2,3</sup>, Guangli Liu<sup>1,2,3</sup>, Pengfei Chen<sup>1,2,3</sup>, Yuyang Li<sup>1,2,3</sup>, Huakun Li<sup>1,2,3</sup>, Lei Zheng<sup>1,2,3</sup>, Shishun Tian<sup>1,3,*</sup> <br>
+Wenbin Zou, Guoguang Hua, Guangxu Chen, Zaiyue He, Guangli Liu, Pengfei Chen, Yuyang Li, Huakun Li, Lei Zheng, Shishun Tian<sup>*</sup> <br>
 
-  1. [Shenzhen University](http://ceie.szu.edu.cn/)  2. [Guangdong KLIIP](http://iip.szu.edu.cn/) 3. SenSingAI   <br>
+  1. [Shenzhen University](http://ceie.szu.edu.cn/)  2. [Guangdong KLIIP](http://iip.szu.edu.cn/)   <br>
 
   [Website] [Paper] [[Github](https://github.com/SensingAI/WVD-SZU/)]
 
@@ -72,6 +72,16 @@ PPLiteSeg | 92 | 84 | 82 | 39 | 85 | 82 | 83 | 74 | 45 | 1 | 1 | 58 | 0 | 79 | 4
 <img src="https://github.com/SensingAI/WVD-SZU/raw/main/images/Results_00.jpg" width="925" >
 
 ## Citation
+```
+@misc{zou2023wvd,
+      title={Need a dog for seeing eye? A Walk Viewpoint Dataset for Freespace Detection in Unstructured Environments}, 
+      author={Wenbin Zou and Guoguang Hua and Guangxu Chen and Zaiyue He and Guangli Liu and Pengfei Chen and Yuyang Li and Huakun Li and Lei Zheng and Shishun Tian},
+      year={2023},
+      eprint={},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## Collaborator
 <img src="https://github.com/SensingAI/WVD-SZU/raw/main/images/SensingAi.png" width="125" >
